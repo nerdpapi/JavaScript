@@ -4,7 +4,7 @@ let input = prompt("Enter numbers separated by spaces");
 // Split the input string into an array of substrings based on spaces and convert them to numbers
 let arr = input.split(' ').map(Number);
 
-// Function to calculate the sum of odd and even numbers
+// Function to calculate the sum of odd and even numbers 
 function oddOrEvenSum(arr) {
     let oddSum = 0;  // Variable to store the sum of odd numbers
     let evenSum = 0; // Variable to store the sum of even numbers
