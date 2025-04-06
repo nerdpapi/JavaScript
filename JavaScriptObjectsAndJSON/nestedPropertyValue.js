@@ -13,4 +13,4 @@ function findNestedValue(obj, propertyPath) {
     }
     return result;
 }
-console.log(findNestedValue(obj, propertyPath)); 
+console.log(findNestedValue(obj, propertyPath));  
